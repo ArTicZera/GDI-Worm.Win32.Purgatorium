@@ -16,7 +16,7 @@ I divided this malware in 3 parts: Restlessness, Collapse and Infernum. Know mor
 <p align="center"><img src="Screenshots/Screenshot_1.png"></p>
 
 * <b>Infernum part:</b> This is the pos-destruction, made entirely in 8086 Assembly. After booting up the system, it will load my kernel fully wrote in 8086 Assembly, which displays 13 special effects using Mode 13h, incluiding PC Speaker support.
-<p align="center"><img src="Screenshots/Screenshot_2.png"></p>
+<p align="center"><img src="Screenshots/Screenshot_8.png"></p>
 
 # Common problems
 
