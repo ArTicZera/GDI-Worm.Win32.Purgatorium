@@ -61,7 +61,7 @@ thread3:
 
 ;overlap
 thread4:
-        ;THETA += 0.1
+        ;ANGLE += 0.1
         fild dword [theta]
         fdiv dword [angle]
         fstp dword [angle]
