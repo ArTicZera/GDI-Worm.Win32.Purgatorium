@@ -1,6 +1,13 @@
 # ❓ What is Purgatorium?
 Purgatorium is a GDI Email-Worm made in C++ and 8086 Assembly for Windows XP (Tested on x86), if you run it in other OS, it'll shutdown the machine. Purgatorium it's by far, my best and biggest project I've ever created for educational &amp; entertainment purposes. I took me 1 month and 15 days to finish this work and I'm honestly very surprised with what I did...
 
+# ⚠️ Important!!!
+This is a potentially harmful program that can cause your system's death & data loss. This software also displays flashing lights and plays loud sounds, so if you have a photosensitive disease like epilepsy, don't run this or watch any video about it for your security.
+
+By running this program, you accept full responsibility for any damages that may occur. So, the creator (ArTic a.k.a JhoPro) will not be responsible for anything caused by this software. By the way, this was created for educational and entertainment purposes, consequently, don't use it to do malicious acts like sharing with a friend.
+
+If you also see a bug, report in `Issues` or contact: ArTic🌊#1892 (my discord acc)
+
 # ⚙️ About the Payloads
 I divided this malware in 3 parts: Restlessness, Collapse and Infernum. Know more informations below:
 
@@ -9,13 +16,6 @@ I divided this malware in 3 parts: Restlessness, Collapse and Infernum. Know mor
 * <b>Collapse part:</b> It happens when you run the worm in the year 2060. In this part it will try to delete all system32 files and will also overwrite the first 6 sectors of the disk (3072 bytes) for my bootloader + kernel. Then, GDI graphic payloads starts along with bytebeats sounds. The labels in the windows will also be randomized and your keyboard will start blinking (CAPSLK & SRCLK) synchronized with the bytebeats.
 
 * <b>Infernum part:</b> This is the pos-destruction, made entirely in 8086 Assembly. After booting up the system, it will load my kernel fully wrote in 8086 Assembly, which displays 13 special effects using Mode 13h, incluiding PC Speaker support.
-
-# ⚠️ Important!!!
-This is a potentially harmful program that can cause your system's death & data loss. This software also displays flashing lights and plays loud sounds, so if you have a photosensitive disease like epilepsy, don't run this or watch any video about it for your security.
-
-By running this program, you accept full responsibility for any damages that may occur. So, the creator (ArTic a.k.a JhoPro) will not be responsible for anything caused by this software. By the way, this was created for educational and entertainment purposes, consequently, don't use it to do malicious acts like sharing with a friend.
-
-If you also see a bug, report in `Issues` or contact: ArTic🌊#1892 (my discord acc)
 
 # 🚀 Execution tips
 
