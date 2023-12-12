@@ -51,8 +51,7 @@ Also, if you're a good ethical person you can credit me lol ^^
 
 # 📷 Screenshots
 <p align="center"><img src="Screenshots/Screenshot_2.png"></p>
-<p align="center"><img src="Screenshots/Screenshot_3.png"></p>
-<p align="center"><img src="Screenshots/Screenshot_4.png"></p>
 <p align="center"><img src="Screenshots/Screenshot_5.png"></p>
 <p align="center"><img src="Screenshots/Screenshot_6.png"></p>
-<p align="center"><img src="Screenshots/Screenshot_7.png"></p>
+<p align="center"><img src="Screenshots/Screenshot_9.png"></p>
+<p align="center"><img src="Screenshots/Screenshot_10.png"></p>
