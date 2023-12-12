@@ -47,3 +47,6 @@ Also, if you're a good ethical person you can credit me lol ^^
 
 
 # 🎬 Lixo Showcase
+
+
+# 📷 Screenshots
