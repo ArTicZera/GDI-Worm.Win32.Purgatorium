@@ -4,8 +4,6 @@ typedef struct IUnknown IUnknown;
 
 #include "Purgatorium.h"
 
-FLOAT volume = 0.0;
-
 namespace Bytebeats
 {
 	DWORD WINAPI BytebeatAlpha(LPVOID lpvd)
