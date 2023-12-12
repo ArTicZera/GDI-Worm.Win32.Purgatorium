@@ -10,13 +10,13 @@ By running this program, you accept full responsibility for any damages that may
 I divided this malware in 3 parts: Restlessness, Collapse and Infernum. Know more informations below:
 
 * <b>Restlessness part:</b> It happens after the first execution, where the malware infects the system and spreads through emails in Microsoft Outlook. This is the part where it creates and sets keys in the registry, creates copies of itself and disables task manager, regedit and cmd. Additionally, it displays the message "THE END IS NEAR" every 10 minutes.
-<p align="center"><img src="Screenshots/Screenshot_1.png"></p>
+<p align="center"><img src="Screenshots/Screenshot.png"></p>
 
 * <b>Collapse part:</b> It happens when you run the worm in the year 2060. In this part it will try to delete all system32 files and will also overwrite the first 6 sectors of the disk (3072 bytes) for my bootloader + kernel. Then, GDI graphic payloads starts along with bytebeats sounds. The labels in the windows will also be randomized and your keyboard will start blinking (CAPSLK & SRCLK) synchronized with the bytebeats.
-<p align="center"><img src="Screenshots/Screenshot_2.png"></p>
+<p align="center"><img src="Screenshots/Screenshot_1.png"></p>
 
 * <b>Infernum part:</b> This is the pos-destruction, made entirely in 8086 Assembly. After booting up the system, it will load my kernel fully wrote in 8086 Assembly, which displays 13 special effects using Mode 13h, incluiding PC Speaker support.
-<p align="center"><img src="Screenshots/Screenshot_3.png"></p>
+<p align="center"><img src="Screenshots/Screenshot_2.png"></p>
 
 # Common problems
 
