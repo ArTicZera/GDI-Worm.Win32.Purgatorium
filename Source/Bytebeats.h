@@ -147,7 +147,7 @@ namespace Bytebeats
 
 		BYTE sbuffer[17000 * 60];
 
-		while (1)
+		while (true)
 		{
 			for (DWORD t = 0; t < sizeof(sbuffer); t++)
 			{
@@ -183,7 +183,7 @@ namespace Bytebeats
 
 		BYTE sbuffer[17000 * 60];
 
-		while (1)
+		while (true)
 		{
 			for (DWORD t = 0; t < sizeof(sbuffer); t++)
 			{
@@ -224,7 +224,7 @@ namespace Bytebeats
 		BOOL statementB = FALSE; //3.2 -> 3.8
 		BOOL statementC = FALSE; //3.8 -> 3.2
 
-		while (1)
+		while (true)
 		{
 			for (DWORD t = 0; t < sizeof(sbuffer); t++)
 			{
@@ -328,7 +328,7 @@ namespace Bytebeats
 
 		DWORD c = 0;
 
-		while (1)
+		while (true)
 		{
 			for (DWORD t = 0; t < sizeof(sbuffer); t++)
 			{
@@ -368,7 +368,7 @@ namespace Bytebeats
 
 		DWORD c = 0;
 
-		while (1)
+		while (true)
 		{
 			for (DWORD t = 0; t < sizeof(sbuffer); t++)
 			{
@@ -410,7 +410,7 @@ namespace Bytebeats
 
 		DWORD c = 0;
 
-		while (1)
+		while (true)
 		{
 			for (DWORD t = 0; t < sizeof(sbuffer); t++)
 			{
@@ -456,7 +456,7 @@ namespace Bytebeats
 
 		BYTE sbuffer[17000 * 60];
 
-		while (1)
+		while (true)
 		{
 			for (DWORD t = 0; t < sizeof(sbuffer); t++)
 			{
