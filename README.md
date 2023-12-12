@@ -6,8 +6,6 @@ This is a potentially harmful program that can cause your system's death & data 
 
 By running this program, you accept full responsibility for any damages that may occur. So, the creator (ArTic a.k.a JhoPro) will not be responsible for anything caused by this software. By the way, this was created for educational and entertainment purposes, consequently, don't use it to do malicious acts like sharing with a friend.
 
-If you also see a bug, report in `Issues` or contact: ArTic🌊#1892 (my discord acc)
-
 # ⚙️ About the Payloads
 I divided this malware in 3 parts: Restlessness, Collapse and Infernum. Know more informations below:
 
@@ -17,7 +15,16 @@ I divided this malware in 3 parts: Restlessness, Collapse and Infernum. Know mor
 
 * <b>Infernum part:</b> This is the pos-destruction, made entirely in 8086 Assembly. After booting up the system, it will load my kernel fully wrote in 8086 Assembly, which displays 13 special effects using Mode 13h, incluiding PC Speaker support.
 
+# Common problems
+
+* <b>Boot payload isn't working:</b> If you use VMware, try desabling `Accelerate 3D Graphics` at `virtual machine settings >> Display`. If you use VBox, you can do the same in `virtual machine settings >> Monitor`.
+
+If you relate some other problem, report at `Issues` or contact: ArTic🌊#1892 (my discord acc)
+
 # 🚀 Execution tips
+This malware has a better performance than my others, since the graphics are rendered in a slower resolution and then it's upscalled and displayed into your normal resolution. 
+
+But in case you're having trouble running this malware because the payloads are too slow, try changing the resolution of your virtual machine to a low one or increase the amount of your CPU cores dedicated to the VM.
 
 # 🤔 Fun facts
 * The reason why the activation date of the last payloads is 2060 is because according to Isaac Newton, the end of the world would occur between the years 2060 and 2374, this occurred after his analysis of some books of the Bible and also after several mathematical calculations.
