@@ -231,7 +231,7 @@ str9:  db "   Complete chaos... Full disorder...   ", 0x00 ;chaos
 str10: db "Everything is destroyed, no turning back", 0x00 ;lines
 str11: db "       Chained here for eternity.       ", 0x00 ;scrollxor
 str12: db "         Condemned to suffering         ", 0x00 ;edge
-str13: db "      Beyond the veil of illusions      ", 0x00 ;
+str13: db "      Beyond the veil of illusions      ", 0x00 ;rainbow scroll
 str14: db "      Living on the vortex of life      ", 0x00 ;roto
 
 ;This variable manages the state of each print
