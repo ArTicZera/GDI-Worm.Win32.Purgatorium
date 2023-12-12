@@ -44,10 +44,16 @@ I know that there will be some people skidding some effects after I release the 
 Also, if you're a good ethical person you can credit me lol ^^
 
 # 🤝 Credits
+Hessfire, Joaozin, Joel, Mist - Beta access
 
+And thanks to everybody for the support! <3
+
+AND SORRY BMO-37 FOR NOT DRAWING DIRECTLY ON 0xA000
+I THOUGHT THE SPEED WAS ALREADY GOOD HAHAHAHAHAHA
 
 # 🎬 Lixo Showcase
-
+Smooth run: https://www.youtube.com/watch?v=xcNUeFXWr6k
+With comments: 
 
 # 📷 Screenshots
 <p align="center"><img src="Screenshots/Screenshot_2.png"></p>
