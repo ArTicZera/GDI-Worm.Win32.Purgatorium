@@ -52,8 +52,8 @@ AND SORRY BMO-37 FOR NOT DRAWING DIRECTLY AT 0xA000
 I DIDN'T FORGOT, JUST THOUGHT THE SPEED WAS ALREADY GOOD!
 
 # 🎬 Lixo Showcase
-Smooth run: https://www.youtube.com/watch?v=xcNUeFXWr6k
-Explanation (Portuguese): https://youtu.be/m9-R2g8aH9w
+* Smooth run: https://www.youtube.com/watch?v=xcNUeFXWr6k
+* Explanation (Portuguese): https://youtu.be/m9-R2g8aH9w
 
 # 📷 Screenshots
 <p align="center"><img src="Screenshots/Screenshot_2.png"></p>
