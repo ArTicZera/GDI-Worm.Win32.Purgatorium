@@ -1,5 +1,5 @@
 # ❓ What is Purgatorium?
-Purgatorium is a GDI Email-Worm made in C++ and 8086 Assembly for Windows XP (Tested on x86), if you run it on other OS, it'll shutdown the machine. Purgatorium is by far, my best and biggest project I've ever created for educational &amp; entertainment purposes, it's also very inspired on Solaris.exe. In total, it took me 1 month and 15 days to finish this work and I'm honestly very surprised with what I did...
+Purgatorium is a GDI Email-Worm made in C++ and 8086 Assembly for Windows XP (FOR x86), if you run it on other OS, it'll shutdown the machine. Purgatorium is by far, my best and biggest project I've ever created for educational &amp; entertainment purposes, it's also very inspired on Solaris.exe. In total, it took me 1 month and 15 days to finish this work and I'm honestly very surprised with what I did...
 
 # ⚠️ Important!!!
 This is a potentially harmful program that can cause your system death & data loss. This software also displays flashing lights and plays loud sounds, so if you have a photosensitive disease like epilepsy, don't run this or watch any videos about it for your safety.
