@@ -41,7 +41,7 @@ krnlsectors:
         ret
 
 setvideomode:
-        mov ax, 0x13
+        mov ax, VIDMOD
         int 0x10
 
         ret
