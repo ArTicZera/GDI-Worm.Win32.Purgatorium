@@ -237,3 +237,8 @@ str14: db "      Living on the vortex of life      ", 0x00 ;roto
 ;This variable manages the state of each print
 
 printed: times 13 dw 0x00
+
+;This is the most important variable, since it
+;will be useful to our full threading system.
+
+time: dw 0
