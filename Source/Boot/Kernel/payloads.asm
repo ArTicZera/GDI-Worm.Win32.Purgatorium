@@ -397,8 +397,6 @@ crash:
 
 ;PAYLOAD'S VARIABLES ----------
 
-time: dw 0
-
 ;INT X, Y, Z
 x: dw 0
 y: dw 0
