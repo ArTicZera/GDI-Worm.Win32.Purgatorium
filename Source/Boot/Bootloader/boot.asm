@@ -5,8 +5,6 @@
 %define SECTRS 0x0005
 %define VIDMOD 0x0013
 
-jmp main
-
 main:
         ;Setup Data and Extra segments
         xor ax, ax
