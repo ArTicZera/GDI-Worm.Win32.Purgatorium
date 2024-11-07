@@ -51,7 +51,7 @@ And thanks to everybody for the support! <3
 AND SORRY BMO-37 FOR NOT DRAWING DIRECTLY AT 0xA000
 I DIDN'T FORGOT, JUST THOUGHT THE SPEED WAS ALREADY GOOD!
 
-# 🎬 Lixo Showcase
+# 🎬 Purgatorium Showcase
 * Smooth run: https://www.youtube.com/watch?v=xcNUeFXWr6k
 * Explanation (Portuguese): https://youtu.be/m9-R2g8aH9w
 
